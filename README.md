@@ -1,6 +1,6 @@
 ﻿# myEcom
 
-Ceci est un projet de création d'un site ecommerce avec HTML CSS et JS.
+Ceci est un projet de création d'un site ecommerce avec HTML CSS JS et PHP.
 
 ## Installation
 
