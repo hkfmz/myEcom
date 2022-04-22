@@ -1,4 +1,4 @@
-﻿# myEcom
+﻿# myEcommerce 
 
 Ceci est un projet de création d'un site ecommerce avec HTML CSS JS et PHP.
 
